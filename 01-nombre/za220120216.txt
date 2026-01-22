@@ -1,0 +1,3 @@
+Nombre: Juan Esteban Orozco Lopez 
+No. Contro: 220120216
+Lenguaje de programación: C++/Python
