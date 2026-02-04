@@ -2,7 +2,7 @@
 
 #include "resta_Los_Chamos.h"
 
-float suma(float num1, float num2) {
+float resta(float num1, float num2) {
 	float resultado = 0;
 	resultado = num1 - num2;
 	return resultado;
